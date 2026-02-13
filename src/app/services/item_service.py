@@ -207,7 +207,7 @@ def get_item_by_id_dfs_iterative(
 
     Args:
         courses: a list of course info objects
-        item_id: The unique identifier of the item to find.
+        item_id: The unique identifier of the item to find. 
         order: order in which to search
 
     Returns:
